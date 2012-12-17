@@ -1,0 +1,25 @@
+{
+  "name": "fastbot",
+  "description": "fasterize IRC bot",
+  "version": "0.0.1",
+  "author": "stephane rios (http://twiter.com/@stefounet)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fasterize/fastbot.git"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "irc": ""
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.4.x"
+  },
+  "keywords": [
+  ],
+  "scripts": {
+  },
+  "optionalDependencies": {},
+  "main": "fastbot"
+}
